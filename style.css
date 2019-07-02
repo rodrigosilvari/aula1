@@ -17,3 +17,9 @@ nav a{
     text-decoration: nome;
 
 }
+
+header{
+    background-image: url("./imagens/cinco-kages.jpg");
+    background-size: cover;
+    height: 400px;
+}
