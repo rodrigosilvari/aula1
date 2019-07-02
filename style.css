@@ -23,3 +23,26 @@ header{
     background-size: cover;
     height: 400px;
 }
+
+section{
+    background-color: #bb9646;
+    display: flex;
+    justify-content: space-evenly
+}
+
+div{
+    width: 40%;
+    text-align: center;
+}
+
+div ul{
+    list-style-type: none;
+}
+
+ul li:nth-child(3){
+    color: blanchedalmond;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
